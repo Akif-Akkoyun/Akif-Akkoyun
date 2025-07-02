@@ -33,5 +33,6 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
   <a href="mailto:akifakkoyun09@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akif@example.com)
+
 ---
