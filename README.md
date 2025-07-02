@@ -27,15 +27,11 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/akifakkoyun" target="blank">
+  <a href="https://linkedin.com/in/akif-akkoyun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" width="40" />
   </a>
-  <a href="mailto:akif@example.com" target="blank">
+  <a href="mailto:akifakkoyun09@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/akifakkoyun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
+  
 ---
