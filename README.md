@@ -1,10 +1,23 @@
-<h1 align="center">Merhaba 👋, ben Akif</h1>
-<h3 align="center">Software Developer | .NET & C# Enthusiast 🚀</h3>
+<h1 align="center">Hi 👋, I’m Akif</h1>
+<h3 align="center">Software Developer | ASP .NET & C# 🚀</h3>
 
 ---
 
 ### 🧠 About Me
 Coding is not just a job, it's also a passion. I love learning about .NET technologies, microservices architecture, clean code and software patterns.
+
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/akif-akkoyun" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" width="40" />
+  </a>
+  <a href="mailto:akifakkoyun09@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -33,15 +46,21 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
 
 ---
 
-### 📫 Contact Me
+### 🧰 Libraries & Frameworks I Use
+- MediatR
+- AutoMapper
+- FluentValidation
+- Serilog
+- Entity Framework Core
+- Swagger / Swashbuckle
+- JWT Authentication
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://linkedin.com/in/akif-akkoyun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" width="40" />
-  </a>
-  <a href="mailto:akifakkoyun09@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akifakkoyun&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
