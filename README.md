@@ -24,24 +24,16 @@ Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku. .NET tekn
 
 ---
 
-### 🌍 Bana Ulaş
+### 📫 Bana Ulaş
+
 <p align="left">
   <a href="https://www.linkedin.com/in/akifakkoyun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akif@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
----
-
-### 🚀 Öne Çıkan Projeler
-- 🔐 [CloudFileStorageSystem](https://github.com/akifakkoyun/CloudFileStorageSystem) – Microservice tabanlı bir dosya yönetim sistemi
-- 🎬 [App.Movie](https://github.com/akifakkoyun/App.Movie) – .NET 8 ile film uygulaması
-- 🚘 [UdemyCarBook](https://github.com/akifakkoyun/UdemyCarBook) – .NET 8 ve Onion Architecture ile Rent-A-Car uygulaması
-- 🧳 [project-portfolyo](https://github.com/akifakkoyun/project-portfolyo) – Kişisel portfolyo sitem
 
 ---
-
-> 💡 Profil README’si hem profesyonel durur hem de iş/hire fırsatlarında ilk izlenimi güçlendirir!
