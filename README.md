@@ -59,8 +59,6 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akif-Akkoyun&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akif-Akkoyun&show_icons=true&locale=en&layout=compact" alt="akifakkoyun" /></p>
 
 ---
