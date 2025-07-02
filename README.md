@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Akif 👋
 
-<!--
-**Akif-Akkoyun/Akif-Akkoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer specialized in ASP.NET Core and microservice architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: C#, JavaScript, HTML, CSS
+- 🧱 Frameworks: .NET 8, ASP.NET Core MVC, Entity Framework Core
+- ⚙️ Tools: Docker, Git, MediatR, FluentValidation
+- 🧠 Architecture: Onion, CQRS, Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Projects
+- 📁 [CloudFileStorageSystem](https://github.com/akifakkoyun/CloudFileStorageSystem): A microservice-based file storage system
+- 🎬 [App.Movie](https://github.com/akifakkoyun/App.Movie): A movie info app using .NET 8
+- 🚗 [UdemyCarBook](https://github.com/akifakkoyun/UdemyCarBook): A Rent-A-Car system using Onion Architecture
+- 🌐 [project-portfolyo](https://github.com/akifakkoyun/project-portfolyo): My personal portfolio
+
+## 📫 Reach Me
+- Email: akif@example.com
+- LinkedIn: [linkedin.com/in/akifakkoyun](https://linkedin.com/in/akifakkoyun)
