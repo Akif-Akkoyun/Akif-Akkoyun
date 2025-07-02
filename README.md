@@ -1,14 +1,14 @@
 <h1 align="center">Merhaba 👋, ben Akif</h1>
-<h3 align="center">Back-End Developer | .NET & C# Enthusiast 🚀</h3>
+<h3 align="center">Software Developer | .NET & C# Enthusiast 🚀</h3>
 
 ---
 
-### 🧠 Hakkımda
-Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku. .NET teknolojileri, microservice mimarisi, temiz kod ve yazılım kalıpları üzerine çalışmayı seviyorum.
+### 🧠 About Me
+Coding is not just a job, it's also a passion. I love learning about .NET technologies, microservices architecture, clean code and software patterns.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
@@ -24,16 +24,18 @@ Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku. .NET tekn
 
 ---
 
-### 📫 Bana Ulaş
+### 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akifakkoyun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/akifakkoyun" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" width="40" />
   </a>
-  <a href="mailto:akif@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:akif@example.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/akifakkoyun" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
 
 ---
