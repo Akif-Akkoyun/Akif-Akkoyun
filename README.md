@@ -36,13 +36,6 @@ Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku. .NET tekn
 
 ---
 
-### 📈 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akifakkoyun&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🚀 Öne Çıkan Projeler
 - 🔐 [CloudFileStorageSystem](https://github.com/akifakkoyun/CloudFileStorageSystem) – Microservice tabanlı bir dosya yönetim sistemi
 - 🎬 [App.Movie](https://github.com/akifakkoyun/App.Movie) – .NET 8 ile film uygulaması
