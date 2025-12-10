@@ -3,12 +3,12 @@
 
 ---
 
-### 🧠 About Me
+### 💫 About Me
 Coding is not just a job, it's also a passion. I love learning about .NET technologies, microservices architecture, clean code and software patterns.
 
 ---
 
-### 📫 Contact Me
+### 📧 Contact Me
 
 <p align="left">
   <a href="https://linkedin.com/in/akif-akkoyun" target="blank">
