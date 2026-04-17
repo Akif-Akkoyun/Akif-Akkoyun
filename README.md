@@ -11,19 +11,14 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
 ### 📧 Contact Me
 
 <p align="left">
-
+ <a href="https://akifakkoyun.dev" target="_blank">
+    <img src="https://akifakkoyun.dev/theme/assets/img/favicon.png" height="30" style="margin-right:15px;" />
+  </a>
   <a href="https://linkedin.com/in/akif-akkoyun" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:15px;" />
   </a>
-  <br>
-
-  <a href="https://akifakkoyun.dev" target="_blank">
-    <img src="https://akifakkoyun.dev/theme/assets/img/favicon.png" height="30" />
-  </a>
-  <br>
-
   <a href="mailto:akifakkoyun09@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
   </a>
 
 </p>
