@@ -14,8 +14,8 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
   <a href="https://linkedin.com/in/akif-akkoyun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akifakkoyun" height="30" width="40" />
   </a>
-  <a href="https://akifakkoyun.dev" target="blank">
-  <img align="center" src="https://akifakkoyun.dev/favicon.png" height="30" width="30" />
+  <a href="https://akifakkoyun.dev" target="_blank">
+  <img src="https://akifakkoyun.dev/theme/assets/img/favicon.png" height="30" width="30" />
 </a>
   <a href="mailto:akifakkoyun09@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
