@@ -51,14 +51,31 @@ Coding is not just a job, it's also a passion. I love learning about .NET techno
 ---
 
 ### 🧰 Libraries & Frameworks I Use
-- MediatR
+
+- MediatR (CQRS Pattern)
 - AutoMapper
 - FluentValidation
-- Serilog
+- Serilog (Structured Logging)
 - Entity Framework Core
 - Swagger / Swashbuckle
-- JWT Authentication
+- JWT Authentication & Authorization
 
+- ASP.NET Core Web API
+- RESTful API Design
+- YARP (API Gateway)
+
+- Clean Architecture
+- Onion Architecture
+- Repository & Unit of Work Pattern
+
+- Microservices Architecture
+- Docker & Docker Compose
+- NGINX (Reverse Proxy)
+
+- PostgreSQL / SQL Server
+- MsSqL
+- SqlLite
+  
 ---
 
 ### 📊 GitHub Stats
