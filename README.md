@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I’m Akif</h1>
-<h3 align="center">Software Developer | ASP .NET & C# 🚀</h3>
+<h3 align="center">IT Operations Specialist | Software Developer | ASP .NET & C# 🚀</h3>
 
 ---
 
